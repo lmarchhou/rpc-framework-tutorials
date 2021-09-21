@@ -2,12 +2,14 @@ package com.mindflow.dubbo.provider;
 
 import java.io.IOException;
 
+import org.springframework.context.annotation.ImportResource;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
  * Dubbo provider
  *
  */
+//@ImportResource("classpath:dubbo-demo-provider.xml")
 public class DubboProvider {
 
 	public static void main(String[] args) {
