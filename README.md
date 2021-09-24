@@ -30,5 +30,6 @@ Baidu [brpc](https://github.com/brpc/brpc)
 基于Netty4 + Zookeeper + protostuff开发的RPC框架[mango](https://github.com/TFdream/mango).
 
 ## 原文出处
+RPC服务框架demo，修改后通过Zookeeper进行注册
 https://github.com/TFdream/rpc-framework-tutorials
 
