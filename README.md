@@ -1,3 +1,5 @@
+原文出处：https://github.com/TFdream/rpc-framework-tutorials
+
 # rpc-framework-tutorials
 Java分布式RPC服务框架教程，包括 Dubbo/Dubbox, Motan, gRPC.
 
@@ -29,7 +31,9 @@ Baidu [brpc](https://github.com/brpc/brpc)
 ## Mango
 基于Netty4 + Zookeeper + protostuff开发的RPC框架[mango](https://github.com/TFdream/mango).
 
-## 原文出处
-RPC服务框架demo，修改后通过Zookeeper进行注册
-https://github.com/TFdream/rpc-framework-tutorials
+## 修改
+RPC服务框架demo，修改后通过Zookeeper进行注册，
+
+监控中心采用dubbo-admin工程实现 https://github.com/lmarchhou/dubbo-admin
+
 
